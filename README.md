@@ -1,4 +1,2 @@
 # IncidentMonitor
-Monitors Indicent from Emails
-
-Uses APACHE Storm.
+Monitors a bunch of emails and tries to extract out useful information from the Email.
